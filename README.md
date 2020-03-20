@@ -1,4 +1,4 @@
-# Predicting Borrowe's Credit Risk
+# Predicting Borrower's Credit Risk
 A model to predict borrowers who will not pay back.
 
 ## Introduction
